@@ -1,0 +1,82 @@
+
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+Enter a row (0, 1, 2) for player X   : 0
+Enter a column (0, 1, 2) for player X: 0
+
+-------------
+| X |   |   |
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+Enter a row (0, 1, 2) for player O   : 0
+Enter a column (0, 1, 2) for player O: 0
+This cell is already occupied. Try a different cell
+Enter a row (0, 1, 2) for player O   : 0
+Enter a column (0, 1, 2) for player O: 1
+
+-------------
+| X | O |   |
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+Enter a row (0, 1, 2) for player X   : 1
+Enter a column (0, 1, 2) for player X: 1
+
+-------------
+| X | O |   |
+-------------
+|   | X |   |
+-------------
+|   |   |   |
+-------------
+Enter a row (0, 1, 2) for player O   : 2
+Enter a column (0, 1, 2) for player O: 2
+
+-------------
+| X | O |   |
+-------------
+|   | X |   |
+-------------
+|   |   | O |
+-------------
+Enter a row (0, 1, 2) for player X   : 1
+Enter a column (0, 1, 2) for player X: 0
+
+-------------
+| X | O |   |
+-------------
+| X | X |   |
+-------------
+|   |   | O |
+-------------
+Enter a row (0, 1, 2) for player O   : 2
+Enter a column (0, 1, 2) for player O: 0
+
+-------------
+| X | O |   |
+-------------
+| X | X |   |
+-------------
+| O |   | O |
+-------------
+Enter a row (0, 1, 2) for player X   : 1
+Enter a column (0, 1, 2) for player X: 2
+
+-------------
+| X | O |   |
+-------------
+| X | X | X |
+-------------
+| O |   | O |
+-------------
+X player won

@@ -1,0 +1,99 @@
+
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+Enter a row (0, 1, 2) for player X   : 1
+Enter a column (0, 1, 2) for player X: 1
+
+-------------
+|   |   |   |
+-------------
+|   | X |   |
+-------------
+|   |   |   |
+-------------
+Enter a row (0, 1, 2) for player O   : 0
+Enter a column (0, 1, 2) for player O: 2
+
+-------------
+|   |   | O |
+-------------
+|   | X |   |
+-------------
+|   |   |   |
+-------------
+Enter a row (0, 1, 2) for player X   : 2
+Enter a column (0, 1, 2) for player X: 2
+
+-------------
+|   |   | O |
+-------------
+|   | X |   |
+-------------
+|   |   | X |
+-------------
+Enter a row (0, 1, 2) for player O   : 0
+Enter a column (0, 1, 2) for player O: 0
+
+-------------
+| O |   | O |
+-------------
+|   | X |   |
+-------------
+|   |   | X |
+-------------
+Enter a row (0, 1, 2) for player X   : 2
+Enter a column (0, 1, 2) for player X: 0
+
+-------------
+| O |   | O |
+-------------
+|   | X |   |
+-------------
+| X |   | X |
+-------------
+Enter a row (0, 1, 2) for player O   : 2
+Enter a column (0, 1, 2) for player O: 1
+
+-------------
+| O |   | O |
+-------------
+|   | X |   |
+-------------
+| X | O | X |
+-------------
+Enter a row (0, 1, 2) for player X   : 1
+Enter a column (0, 1, 2) for player X: 0
+
+-------------
+| O |   | O |
+-------------
+| X | X |   |
+-------------
+| X | O | X |
+-------------
+Enter a row (0, 1, 2) for player O   : 1
+Enter a column (0, 1, 2) for player O: 2
+
+-------------
+| O |   | O |
+-------------
+| X | X | O |
+-------------
+| X | O | X |
+-------------
+Enter a row (0, 1, 2) for player X   : 0
+Enter a column (0, 1, 2) for player X: 1
+
+-------------
+| O | X | O |
+-------------
+| X | X | O |
+-------------
+| X | O | X |
+-------------
+No winner
