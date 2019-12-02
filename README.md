@@ -3,6 +3,6 @@
 
 - [x] Tic-Tac-Toe
 - [x] Credit Card Number Validation
-- [ ] Dictionary
 
-##### updated 11/08/19
+--
+##### updated 12/02/19
